@@ -1,0 +1,44 @@
+/*Da tamaño de 24px*/
+html{
+    font-size: 24px;
+}
+/*Da un tamaño de 16px*/
+h1{
+    font-size: 16px;
+
+}
+/*Da tamaño de 1rem = 16px*/
+h2{
+    font-size: 1rem;
+}
+/*Da tamaño de 1.75rem = 42px*/
+h3{
+    font-size: 1.75rem;
+}
+/*Da tamaño de 1.5rem = 36px*/
+h4{
+    font-size: 1.5rem;
+}
+/*Da tamaño de 1.2rem = 29px*/
+h5{
+    font-size: 1.2rem;
+}
+/*Da tamaño de 1.05rem = 25px*/
+h6{
+    font-size: 1.05rem;
+}
+/*Da anchura de 70%, altura de 400px, color de fondo del contenedor aqua y margemn de 30px centrado (auto)*/
+.contenedor{
+    width: 70%;
+    height: 400px;
+    background-color: aqua;
+    margin: 30px auto;
+}
+/*Da anchura de 70vw = 10%, altura de 50vh = 10%, color de fondo del contenedor blueviolet y margen de 30px centrado (auto)*/
+.hijo{
+    width: 70vw;
+    height: 50vh;
+    background-color: blueviolet;
+    margin: 30px auto;
+    
+}
